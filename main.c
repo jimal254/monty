@@ -1,4 +1,7 @@
-nclude "monty.h"
+#include "monty.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
 /**
  * main - Monty interpreter main function
